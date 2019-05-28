@@ -1,7 +1,7 @@
 # Bitcoin_Youtube
 all source files from the channel: https://www.youtube.com/channel/UCF4fHe27mOE-trLbjnfFoeA
 
-files shown are based on the version 0.12.0
+files shown are based on the version 0.12.0 (around the end of the year 2015) of the original Bitcoin code source
 
 (Note: new files will be added in regards to the channel development process)
 
