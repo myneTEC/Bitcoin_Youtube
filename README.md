@@ -6,6 +6,7 @@ till [date: 2019/05/31]
 files shown are an overview for easy code access based on the version 0.12.0 (around the end of the year 2015) of the original Bitcoin code source
 
 switch into explain folder if you wanna get to the detailed explanation files shown in the youtube videos.
+if you wanna download them just can use the .zip file where all files are already archived together!
 
 (Note: new files will be added in regards to the channel development process)
 
