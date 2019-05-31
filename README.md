@@ -1,6 +1,8 @@
 # Bitcoin_Youtube
 all source files from the channel: https://www.youtube.com/channel/UCF4fHe27mOE-trLbjnfFoeA
 
+till [date: 2019/05/31]
+
 files shown are an overview for easy code access based on the version 0.12.0 (around the end of the year 2015) of the original Bitcoin code source
 
 switch into explain folder if you wanna get to the detailed explanation files shown in the youtube videos.
