@@ -3,7 +3,7 @@ all source files from the channel: https://www.youtube.com/channel/UCF4fHe27mOE-
 
 files shown are an overview for easy code access based on the version 0.12.0 (around the end of the year 2015) of the original Bitcoin code source
 
-switch into explain folder the explanation files shown in the youtube videos.
+switch into explain folder if you wanna get to the detailed explanation files shown in the youtube videos.
 
 (Note: new files will be added in regards to the channel development process)
 
