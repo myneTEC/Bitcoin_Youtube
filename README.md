@@ -1,7 +1,10 @@
 # Bitcoin_Youtube
 all source files from the channel: https://www.youtube.com/channel/UCF4fHe27mOE-trLbjnfFoeA
 
-till [date: 2019/06/06]
+(this project was build cause of mismatch in money consciousness vs. tech thinking. i experimented a lot with both sides. 
+The problem that mainly lead to this, was caused by my unability getting more into coding if i stick for the money thinking side isolated. and existing bridging gaps didnt exist at this time. nobody was able building a youtube bitcoin bridging gap directly explaining its code in the most simple way. On the other hand the Tech side wasnt able using the money the money thinkers side offered. this tradeoff got me thinking a lot and so i decided to build up the code files in youtube videos directly to get it hard linked as much as i can to glue it together and this will help both sides isolated people build them up in a much easier way. i also found out there exist a lot of video watchers. dont wanna get into action themselves and prefer watching. so this will help them transitioning into more than just watching videos as well).
+
+till [date: 2019/06/21]
 
 files shown are an overview for easy code access based on the version 0.12.0 (around the end of the year 2015) of the original Bitcoin code source
 
@@ -11,12 +14,16 @@ if you wanna download them just use the .zip file where all files are already ar
 (Note: new files will be added in regards to the channel development process, there are about 123 basic core files under src uploaded accordingly plus 16 folders with additional files and functionality for example the gui part in it, this yt project will focus on the main core files first)
 
 if you wanna browse actual development versions you have to visit the following github resource.
-i Just decided to educate on this older version cause its nearer to the last date Original coder: Satoshi Nakamoto took place in in it. Its his project after all and the core developers can be seen as his little helpers. Till today.
+i Just decided to educate on this older version cause its nearer to the last date original coder,
+
+known under the Pseudonym: Satoshi Nakamoto 
+
+took place in it. Its his project after all and the core developers can be seen as his little helpers. Till today.
 But it developed a bit further and if you are more interested into this new code base just visit:
 
 
 https://github.com/bitcoin/bitcoin
 
-for programming on bitcoins chain visit:
+for going deeper & learning programming on bitcoins chain visit:
 
 https://github.com/bitcoinbook/bitcoinbook
