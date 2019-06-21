@@ -1,8 +1,10 @@
 # Bitcoin_Youtube
 all source files from the channel: https://www.youtube.com/channel/UCF4fHe27mOE-trLbjnfFoeA
 
-(this project was build cause of mismatch in money consciousness vs. tech thinking. i experimented a lot with both sides. 
-The problem that mainly lead to this, was caused by my unability getting more into coding if i stick for the money thinking side isolated. and existing bridging gaps didnt exist at this time. nobody was able building a youtube bitcoin bridging gap directly explaining its code in the most simple way. On the other hand the Tech side wasnt able using the money the money thinkers side offered. this tradeoff got me thinking a lot and so i decided to build up the code files in youtube videos directly to get it hard linked as much as i can to glue it together and this will help both sides isolated people build them up in a much easier way. i also found out there exist a lot of video watchers. dont wanna get into action themselves and prefer watching. so this will help them transitioning into more than just watching videos as well).
+{
+this project was build cause of mismatch in money consciousness vs. tech thinking. i experimented a lot with both sides. 
+The problem that mainly lead to this, was caused by my unability getting more into coding if i stick for the money thinking side isolated. and existing bridging gaps didnt exist at this time. nobody was able building a youtube2bitcoin bridging gap directly explaining its code in the most simple way. On the other hand the Tech side wasnt able using the money the money thinkers side offered. this tradeoff got me thinking a lot and so i decided to build up the code files in youtube videos directly to get it hard linked as much as i can to glue it together and this will help both sides isolated people build them up in a much easier way. i also found out there exist a lot of video watchers that dont wanna get into action themselves and prefer staying watching. so this will help them transitioning into more than just watching videos as well caused by spending their money into the bitcoin network when watching those videos automatically even if they dont running wallets (they are contracted that way)
+}
 
 till [date: 2019/06/21]
 
