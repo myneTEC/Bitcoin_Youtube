@@ -11,7 +11,7 @@ this code block will be herby contracted under myneTEC giving for satoshi amount
 contracted addresses will be find in every of the youtube videos description!
 }
 
-timestamp: [date: 2019/07/18]
+timestamp 4 change in codebase: [date: 2019/07/28]
 
 files shown are an overview for easy code access based on the version 0.12.0 (around the end of the year 2015) of the original Bitcoin code source
 
