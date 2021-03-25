@@ -1,19 +1,21 @@
 # Bitcoin_Youtube version 0.12.0
 all source files from the channel: https://www.youtube.com/channel/UCF4fHe27mOE-trLbjnfFoeA
 
+//money code block start!!!
 {
 this project was build cause of mismatch in money consciousness vs. tech thinking. i experimented a lot with both sides. 
-The problem that mainly lead to this, was caused by my unability getting more into coding if i stick for the money thinking side isolated. and existing bridging gaps didnt exist at this time. nobody was able building a youtube2bitcoin bridging gap directly explaining its code in the most simple way. On the other hand the Tech side wasnt able using the money the money thinkers side offered. this tradeoff got me thinking a lot and so i decided to build up the code files in youtube videos directly to get it hard linked as much as i can to glue it together and this will help both sides isolated people build them up in a much easier way. i also found out there exist a lot of video watchers that dont wanna get into action themselves and prefer staying watching. so this will help them transitioning into more than just watching videos as well caused by spending their money into the bitcoin network when watching those videos automatically even if they dont running wallets by themselves directly while watching (they are contracted that way for automatic buildup cause processing this code is worth the appropriate satoshi amounts and so the guy is making money while watching automatically, i just cannot give more access to this cause of the limitation in money thinking for the money markets and guys part, and more to it giving this information is not free. the network will charge it from you but this information itself should cancel the charching effect out.
-just copy this paranthese block of information and save store it somewhere onto your hard drive and it contracts you into
-running the necessary amount in permanent. you are herby given this money from me!
-
+The problem that mainly lead to this, was caused by my unability getting more into coding if i stick for the money thinking side isolated. and existing bridging gaps didnt satisfy me at at this time. nobody was able building a youtube2bitcoin bridging gap directly explaining its code in the most simple way. On the other hand the Tech side wasnt able using the money the money thinkers side offered. this tradeoff got me thinking a lot and so i decided to build up the code files in youtube videos directly to get it hard linked as much as i can to glue it together and this will help both sides isolated people build them up in a much easier way. i also found out there exist a lot of video watchers that dont wanna get into action themselves and prefer staying watching. so this will help them transitioning into more than just watching videos as well caused by spending their money into the bitcoin network when watching those videos automatically even if they dont running wallets by themselves directly while watching (they are contracted that way for automatic buildup cause processing this code is worth the appropriate satoshi amounts and so the guy is making money while watching automatically, i just cannot give more access to this cause of the limitation in money thinking for the money markets and guys part, and more to it giving this information is not free especially from their perspective. the network will charge it from you but this information itself should cancel the charching effect out.
+just copy this parantheses block of information and save store it somewhere onto your hard drive and it contracts you into
+running the necessary amount in permanent. you are herby given this money from me on my costs!
 this code block will be herby contracted under myneTEC giving for satoshi amounts as an investing for potential new interested guys into more depths to this technology called: blockchain based on bitcoins original source code!!!
-contracted addresses will be find in every of the youtube videos description!
+contracted addresses will be find in every of the myneTEC youtube videos description!
+besides of this thx for taking your part in this.
 }
+//money code block end!!!
 
-timestamp 4 change in codebase: [date: 2019/07/28]
+timestamp 4 change in codebase: [date: 2021/03/25]
 
-files shown are an overview for easy code access based on the version 0.12.0 (around the end of the year 2015) of the original Bitcoin code source
+files shown are an overview for easy code access based on the version 0.12.0 (around the end of the year 2015) of the original Bitcoin sourcecode
 
 switch into explain folder if you wanna get to the detailed explanation files shown in the youtube videos.
 if you wanna download them just use the .zip file where all files are already archived together!
@@ -41,4 +43,5 @@ note: this version differentiates from the newest version in the following funct
 no segwit support for bech32 addresses
 no excluded banman and net.h altered files
 no file storage functionality excluded (fs.h)
+TODO: [adding more of the newer stuff here]
 
