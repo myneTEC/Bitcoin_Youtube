@@ -40,8 +40,8 @@ https://github.com/bitcoinbook/bitcoinbook
 
 note: this version differentiates from the newest version in the following functionalities
 
-no segwit support for bech32 addresses
-no excluded banman and net.h altered files
-no file storage functionality excluded (fs.h)
-TODO: [adding more of the newer stuff here]
+- no segwit support for bech32 addresses
+- no excluded banman and net.h altered files
+- no file storage functionality excluded (fs.h)
+- TODO: [adding more of the newer stuff here]
 
