@@ -13,7 +13,7 @@ besides of this thx for taking your part in this.
 }
 //money code block end!!!
 
-timestamp 4 change in codebase: [date: 2021/03/25]
+timestamp 4 change in codebase: [date: 2021/03/26]
 
 files shown are an overview for easy code access based on the version 0.12.0 (around the end of the year 2015) of the original Bitcoin sourcecode
 
