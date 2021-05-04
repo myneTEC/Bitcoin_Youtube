@@ -38,10 +38,14 @@ for going deeper & learning programming on bitcoins chain visit:
 https://github.com/bitcoinbook/bitcoinbook
 
 
-note: this version differentiates from the newest version in the following functionalities
+note: this version: differentiates from the newest version: https://github.com/bitcoin/bitcoin/releases/tag/v0.21.1 in the following 
+      not containing functionalities
 
 - no segwit support for bech32 addresses
 - no excluded banman and net.h altered files
 - no file storage functionality excluded (fs.h)
+- no internal interfaces
+- no MAST
+- no taproot functionality (https://taprootactivation.com/)
 - TODO: [adding more of the newer stuff here]
 
