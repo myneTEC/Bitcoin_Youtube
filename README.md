@@ -46,6 +46,7 @@ note: this version: differentiates from the newest version: https://github.com/b
 - no file storage functionality excluded (fs.h)
 - no internal interfaces
 - no MAST
+- no Schnorr signatures
 - no taproot functionality (https://taprootactivation.com/)
 - TODO: [adding more of the newer stuff here]
 
