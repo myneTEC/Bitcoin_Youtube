@@ -42,6 +42,7 @@ note: this version: differentiates from the newest version: https://github.com/b
       not containing functionalities
 
 - no segwit support for bech32 addresses
+- no rbf (replace by fee)
 - no excluded banman and net.h altered files
 - no file storage functionality excluded (fs.h)
 - no internal interfaces
